@@ -1,2 +1,3 @@
-# greenhat
-A simple productivity tool...
+# Green Hat
+A Simple Productivity Tool.
+
